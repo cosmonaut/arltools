@@ -1,0 +1,18 @@
+This folder contains an interface API (vm502.py) and an a GUI
+(vm502gui.py) to control the Acton Research Corporation VM502
+monochromator. The GUI is written in QT.
+
+API Requires:
+* pyserial
+
+GUI requires:
+* pyqt5
+* pyserial
+
+Adjustments can be made to the GUI with the vm502.ui file. This code
+has primarily been tested with the SD2 controller -- adjustments may
+be needed for other controllers.
+
+NJN
+04-28-2019
+
