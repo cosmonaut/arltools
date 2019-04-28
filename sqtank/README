@@ -1,5 +1,7 @@
 Miscellaneous programs used to run various square tank tests. See code
 for details.
 
+Some scripts require vm502 API (found in vm502 folder).
+
 NJN
 04-28-2019
